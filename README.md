@@ -99,5 +99,6 @@ Core GUI: Tkinter
 
 Packaging: PyInstaller / Inno Setup
 
-👤 Author
+👤 Author:
+
 Salman Farsi
