@@ -69,7 +69,7 @@ If you want to run the source code or contribute:
 
 ```bash
 pip install customtkinter
-3. Run the App
+### 3. Run the App
 Bash
 
 python Calculator7.py
@@ -100,5 +100,5 @@ Core GUI: Tkinter
 Packaging: PyInstaller / Inno Setup
 
 👤 Author
-Salman Farsi GitHub Profile
+Salman Farsi
 ```
