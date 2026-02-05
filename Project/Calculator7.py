@@ -12,7 +12,7 @@ class CalculatorApp(ctk.CTk):
         super().__init__()
 # Test
 
-        icon_path = r"C:\Users\Salman\Documents\5th Semester Project\Me Practice\Python\calcu.ico"
+        icon_path = r"C:\Users\Salman Farsi\Documents\Project\CustomTkinter_Calculator_All\Project\calculator_icon.ico"
         if os.path.exists(icon_path):
             self.iconbitmap(icon_path)
         else:
