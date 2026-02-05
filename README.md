@@ -22,9 +22,9 @@ _Click the button above to download._
 
 ## 📸 Screenshots
 
-|                                  Light Mode                                  |                                 Dark Mode                                  |
-| :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| ![Light Mode](https://via.placeholder.com/300x500?text=App+Screenshot+Light) | ![Dark Mode](https://via.placeholder.com/300x500?text=App+Screenshot+Dark) |
+|                                          Light Mode                                           |                                          Dark Mode                                          |
+| :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| ![Light Mode](https://github.com/salmansync/CustomTkinter_Calculator_All/blob/main/Light.png) | ![Dark Mode](https://github.com/salmansync/CustomTkinter_Calculator_All/blob/main/Dark.png) |
 
 > _Tip: Upload screenshots to your repo and replace the links above to show off your UI!_
 
