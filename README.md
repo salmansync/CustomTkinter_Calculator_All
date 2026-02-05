@@ -84,7 +84,9 @@ pip install pyinstaller 2. Build Command
 
 Bash
 
+```
 pyinstaller --noconsole --onefile --icon=calcu.ico Calculator7.py
+```
 
 Output: The file will appear in the dist/ folder.
 
@@ -99,7 +101,3 @@ Packaging: PyInstaller / Inno Setup
 
 👤 Author
 Salman Farsi
-
-```
-
-```
