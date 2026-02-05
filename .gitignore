@@ -1,6 +1,5 @@
 dist/
 build/
-Output/
 __pycache__/
 *.spec
 *.exe
