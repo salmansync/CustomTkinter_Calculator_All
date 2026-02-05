@@ -14,7 +14,7 @@ Get the standalone installer for Windows. No Python installation required.
 
 > **Current Version:** v1.0 | **File:** `Calcus Setup.exe`
 
-[![Download Calcus](https://img.shields.io/badge/Download_Installer-.exe-blue?style=for-the-badge&logo=windows)](PASTE_YOUR_RELEASE_LINK_HERE)
+[![Download Calcus](https://img.shields.io/badge/Download_Installer-.exe-blue?style=for-the-badge&logo=windows)](https://github.com/salmansync/CustomTkinter_Calculator_All/blob/main/Output/Calcus%20Setup.exe)
 
 _Click the button above to download._
 
