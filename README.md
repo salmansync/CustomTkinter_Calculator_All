@@ -68,7 +68,6 @@ pip install customtkinter
 
 ### 3. Run the App
 
-Bash
 python Calculator7.py
 
 Make sure calcu.ico is in the project folder for the icon to load.
@@ -78,11 +77,12 @@ Make sure calcu.ico is in the project folder for the icon to load.
 To compile the application from source code into a standalone .exe:
 
 1. Install PyInstaller
-   Bash
 
-pip install pyinstaller 2. Build Command
+```
+pip install pyinstaller
+```
 
-Bash
+2. Build Command
 
 ```
 pyinstaller --noconsole --onefile --icon=calcu.ico Calculator7.py
