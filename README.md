@@ -26,10 +26,6 @@ _Click the button above to download._
 | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
 | ![Light Mode](https://github.com/salmansync/CustomTkinter_Calculator_All/raw/main/Light.png) | ![Dark Mode](https://github.com/salmansync/CustomTkinter_Calculator_All/raw/main/Dark.png) |
 
-> _Tip: Upload screenshots to your repo and replace the links above to show off your UI!_
-
----
-
 ## 🚀 Features
 
 - 🌓 **Theme Toggle:** Switch instantly between Light and Dark modes.
@@ -67,25 +63,29 @@ If you want to run the source code or contribute:
 
 ### 2. Install Dependencies
 
-```bash
-pip install customtkinter
-3. Run the App
 Bash
+pip install customtkinter
 
+### 3. Run the App
+
+Bash
 python Calculator7.py
+
 Make sure calcu.ico is in the project folder for the icon to load.
 
-🏗️ Build it Yourself (.exe)
+### 🏗️ Build it Yourself (.exe)
+
 To compile the application from source code into a standalone .exe:
 
 1. Install PyInstaller
-Bash
+   Bash
 
-pip install pyinstaller
-2. Build Command
+pip install pyinstaller 2. Build Command
+
 Bash
 
 pyinstaller --noconsole --onefile --icon=calcu.ico Calculator7.py
+
 Output: The file will appear in the dist/ folder.
 
 🛠️ Tech Stack
@@ -99,4 +99,7 @@ Packaging: PyInstaller / Inno Setup
 
 👤 Author
 Salman Farsi
+
+```
+
 ```
